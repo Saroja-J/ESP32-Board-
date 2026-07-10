@@ -10,7 +10,7 @@ This project is based on the **ESP32-WROOM-32D**, a Wi-Fi and Bluetooth-enabled 
 
 ---
 
-## 📷 PCB Images
+## 📷 PCB Layout Images
 
 > Add your PCB images below.
 
