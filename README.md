@@ -83,6 +83,12 @@ This project is based on the **ESP32-WROOM-32D**, a Wi-Fi and Bluetooth-enabled 
 
 ---
 
+## ⚠️ Warning
+
+This design does **not** include an **ESD protection diode** on the **3.3V supply** near the **ESP32-WROOM-32D**, although it is recommended in the **ESP32 Hardware Design Guidelines**. It can be added in future revisions to improve protection against electrostatic discharge (ESD).
+
+---
+
 ## 📄 License
 
 This project is shared for **educational and learning purposes**.
