@@ -16,7 +16,7 @@ This project is based on the **ESP32-WROOM-32D**, a Wi-Fi and Bluetooth-enabled 
 
 | 2-Layer PCB | 4-Layer PCB |
 |--------------|--------------|
-| ![2-Layer PCB](2layer.png) | ![4-Layer PCB](4layer.png) |
+| <img width="825" height="739" alt="Image" src="https://github.com/user-attachments/assets/1b99829b-7a14-4b55-9ef7-00a02ba3b1c0" /> | ![4-Layer PCB](4layer.png) |
 
 ---
 
